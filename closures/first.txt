@@ -1,0 +1,5 @@
+What is Closure?
+
+A closure happens when:
+
+a function remembers variables from its outer scope even after the outer function has finished execution
